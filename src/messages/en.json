@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "El Sueño Parfums De Luxe | Artisan Niche Fragrance",
+    "description": "El Sueño Parfums creates carefully blended, characterful Extrait de Parfum fragrances. Leave a lasting impression without saying a word."
+  },
+  "navigation": {
+    "collection": "Collection",
+    "atelier": "Our atelier",
+    "contact": "Contact",
+    "menu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Türkçe"
+  },
+  "hero": {
+    "eyebrow": "Parfums De Luxe",
+    "title": "Leave a lasting impression",
+    "highlight": "without a word.",
+    "description": "An invisible layer of your personality. Signature scents inspired by iconic fragrance profiles and carefully blended in our artisan atelier.",
+    "cta": "Explore the collection"
+  },
+  "collection": {
+    "eyebrow": "The El Sueño collection",
+    "title": "Our signature scents",
+    "description": "A luxurious collection of Extrait de Parfum fragrances, crafted to let you appreciate quality in every note.",
+    "viewDetails": "Explore fragrance",
+    "backToCollection": "Back to collection",
+    "order": "Order via Instagram DM",
+    "character": "Fragrance character",
+    "usage": "When to wear",
+    "sizes": "Available sizes",
+    "inspiration": "About this fragrance profile"
+  },
+  "atelier": {
+    "eyebrow": "Est. 2025",
+    "title": "An artisan atelier, not a factory.",
+    "paragraphOne": "El Sueño is a fragrance house for those who challenge the ordinary. Our aim is not to make standard products for the masses, but to offer thoughtful details that reflect your character.",
+    "paragraphTwo": "We work with care in a modern, hygienic atelier, away from the impersonal feel of mass production. We study iconic niche fragrance profiles and blend them with our own essences to create long-lasting Extrait de Parfum compositions.",
+    "quote": "True craftsmanship becomes an invisible signature. Get in touch with our design atelier to talk about your personal fragrance preferences."
+  },
+  "contact": {
+    "eyebrow": "Get in touch",
+    "title": "Find your signature scent.",
+    "description": "Message us to place an order, discuss a bespoke fragrance, or ask a question.",
+    "instagram": "Instagram",
+    "phone": "WhatsApp and phone",
+    "workshop": "Our atelier",
+    "location": "Türkiye — online sales and boutique orders only",
+    "name": "Your name",
+    "email": "Your email address",
+    "message": "Your message or fragrance preferences",
+    "send": "Send via WhatsApp",
+    "formNote": "Your message will be prepared to send through WhatsApp."
+  },
+  "footer": {
+    "description": "Where luxury meets lasting character, thoughtfully created in our design atelier.",
+    "rights": "All rights reserved.",
+    "credit": "Website by"
+  },
+  "product": {
+    "blue-de-sueno": {
+      "name": "BLUE DE SUEÑO",
+      "tagline": "A deep, clean and timeless blue.",
+      "description": "Fresh citrus notes meet a woody, aromatic character in Blue de Sueño, leaving a polished, confident impression from the very first spray. Fresh enough for everyday wear, yet distinctive enough for special moments.",
+      "character": "Fresh • Woody • Aromatic • Refined",
+      "usage": "All seasons • Everyday and special occasions",
+      "sizes": "50 ml and 100 ml",
+      "inspiration": "Created with inspiration from an iconic blue masculine fragrance profile."
+    },
+    "althair-noir": {
+      "name": "ALTHAIR NOIR",
+      "tagline": "A dark, warm and powerful take on vanilla.",
+      "description": "A spicy opening of cinnamon and cardamom meets the elegance of orange blossom and the rich warmth of Bourbon vanilla. Praline and precious woods add depth, leaving a sophisticated and unforgettable trail on the skin.",
+      "character": "Vanillic • Spicy • Woody • Ambery",
+      "usage": "Evenings and special occasions • Autumn and winter",
+      "sizes": "50 ml and 100 ml",
+      "inspiration": "Inspired by the warm, spicy vanilla fragrance family."
+    },
+    "tigre": {
+      "name": "TIGRE",
+      "tagline": "A vibrant, energetic and charismatic masculine character.",
+      "description": "A bright citrus opening meets powerful woody notes and warm amber nuances, giving Tigre a fresh yet confident character. As it settles on the skin, it becomes deeper, more sophisticated and more masculine.",
+      "character": "Citrus • Woody • Ambery • Energetic",
+      "usage": "Everyday wear and special occasions",
+      "sizes": "50 ml and 100 ml",
+      "inspiration": "Echoes a modern fragrance profile that brings bright citrus and woods together."
+    },
+    "pacifico-fresco": {
+      "name": "PACÍFICO FRESCO",
+      "tagline": "A modern scent that feels fresh, energetic and free.",
+      "description": "Lively citrus accents blend with cool mint, green aromatic notes and subtle fruity nuances, giving Pacífico Fresco a bright, clean and refreshing character.",
+      "character": "Citrus • Green • Aromatic • Fresh",
+      "usage": "Everyday wear • Spring and summer",
+      "sizes": "50 ml and 100 ml",
+      "inspiration": "Inspired by summer fragrances that pair a Mediterranean breeze with tropical freshness."
+    },
+    "erba-fruta": {
+      "name": "ERBA FRUTA",
+      "tagline": "Sweet, intense and impossible to overlook.",
+      "description": "A lively opening of exotic fruits meets soft musk, vanilla-like warmth and creamy accents, giving Erba Fruta a bold, captivating character. A confident unisex fragrance for everyone.",
+      "character": "Fruity • Sweet • Exotic • Musky",
+      "usage": "Everyday wear and special occasions",
+      "sizes": "50 ml and 100 ml",
+      "inspiration": "Inspired by the intense, fruity unisex fragrance family."
+    }
+  }
+}

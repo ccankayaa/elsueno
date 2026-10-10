@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "El Sueño Parfums De Luxe | Butik Niş Parfüm",
+    "description": "El Sueño Parfums; özenle harmanlanan, karakterinizi yansıtan butik Extrait de Parfum kokularıyla tek kelime etmeden iz bırakır."
+  },
+  "navigation": {
+    "collection": "Koleksiyon",
+    "atelier": "Atölye",
+    "contact": "İletişim",
+    "menu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "language": "English"
+  },
+  "hero": {
+    "eyebrow": "Parfums De Luxe",
+    "title": "Tek kelime etmeden",
+    "highlight": "iz bırak.",
+    "description": "Kişiliğinizin görünmez zırhı. İkonik koku profillerinden ilham alan, butik atölyemizde özenle harmanlanan imza esanslar.",
+    "cta": "Koleksiyonu keşfet"
+  },
+  "collection": {
+    "eyebrow": "El Sueño koleksiyonu",
+    "title": "İmza kokularımız",
+    "description": "Extrait de Parfum yoğunluğunda hazırlanan, her notasında kaliteyi hissedeceğiniz lüks koleksiyon.",
+    "viewDetails": "Detayları incele",
+    "backToCollection": "Koleksiyona dön",
+    "order": "Instagram DM ile sipariş ver",
+    "character": "Koku karakteri",
+    "usage": "Kullanım ve mevsim",
+    "sizes": "Boy seçenekleri",
+    "inspiration": "Koku profili hakkında"
+  },
+  "atelier": {
+    "eyebrow": "2025'ten beri",
+    "title": "Fabrika değil, zanaatkâr atölyesi.",
+    "paragraphOne": "El Sueño, sıradanlığa meydan okuyanların butik parfüm evidir. Amacımız standart ürünler üretmek değil; karakterinizi yansıtan özel dokunuşlar sunmaktır.",
+    "paragraphTwo": "Modern ve hijyenik atölyemizde, fabrikasyon üretimin soğukluğundan uzak, özenli bir üretim anlayışıyla çalışıyoruz. İkonik niş koku profillerini analiz ediyor, kendi esanslarımızla harmanlayarak kalıcı Extrait de Parfum formülleri hazırlıyoruz.",
+    "quote": "Gerçek bir zanaat, görünmeyen bir imzaya dönüşür. Kişisel koku tercihlerinizi konuşmak için tasarım laboratuvarımızla iletişime geçin."
+  },
+  "contact": {
+    "eyebrow": "Bize ulaşın",
+    "title": "Kendi imza kokunuzu bulun.",
+    "description": "Sipariş vermek, kişiye özel koku tasarlatmak veya bilgi almak için bize yazın.",
+    "instagram": "Instagram",
+    "phone": "WhatsApp ve telefon",
+    "workshop": "Üretim atölyesi",
+    "location": "Türkiye — yalnızca çevrim içi satış ve butik sipariş",
+    "name": "Adınız soyadınız",
+    "email": "E-posta adresiniz",
+    "message": "Mesajınız veya koku tercihiniz",
+    "send": "WhatsApp ile gönder",
+    "formNote": "Mesajınız WhatsApp üzerinden gönderilmek üzere hazırlanır."
+  },
+  "footer": {
+    "description": "Tasarım laboratuvarımızda özenle hazırlanan, lüks ve kalıcılığın buluştuğu nokta.",
+    "rights": "Tüm hakları saklıdır.",
+    "credit": "Siteyi hazırlayan"
+  },
+  "product": {
+    "blue-de-sueno": {
+      "name": "BLUE DE SUEÑO",
+      "tagline": "Derin, temiz ve zamansız bir mavi.",
+      "description": "Ferah narenciye dokunuşlarının odunsu ve aromatik karakterle buluştuğu Blue de Sueño, ilk sıkımdan itibaren bakımlı, güçlü ve kendinden emin bir iz bırakır. Günlük kullanıma uyum sağlayacak kadar ferah; özel anlarda fark edilecek kadar karakterli.",
+      "character": "Ferah • Odunsu • Aromatik • Zarif",
+      "usage": "Dört mevsim • Günlük ve özel anlar",
+      "sizes": "50 ml ve 100 ml",
+      "inspiration": "İkonik mavi maskülen koku profilinden ilham alınarak hazırlanmıştır."
+    },
+    "althair-noir": {
+      "name": "ALTHAIR NOIR",
+      "tagline": "Vanilyanın karanlık, sıcak ve güçlü yorumu.",
+      "description": "Tarçın ve kakulenin baharatlı açılışı; portakal çiçeğinin zarafeti ve Bourbon vanilyasının yoğun sıcaklığıyla buluşuyor. Pralin ve değerli odunların derinliği, tende sofistike ve unutulmaz bir iz bırakıyor.",
+      "character": "Vanilyalı • Baharatlı • Odunsu • Amberimsi",
+      "usage": "Akşam ve özel anlar • Sonbahar ve kış",
+      "sizes": "50 ml ve 100 ml",
+      "inspiration": "Sıcak, baharatlı vanilya koku ailesinden ilham alınmıştır."
+    },
+    "tigre": {
+      "name": "TIGRE",
+      "tagline": "Canlı, enerjik ve karizmatik bir maskülen karakter.",
+      "description": "Parlak narenciye açılışı; güçlü odunsu dokunuşlar ve sıcak amberimsi nüanslarla birleşerek Tigre'ye ferah ama bir o kadar da iddialı bir yapı kazandırır. Tende kaldıkça daha derin, daha sofistike ve daha maskülen bir hâl alır.",
+      "character": "Narenciyeli • Odunsu • Amberimsi • Enerjik",
+      "usage": "Günlük ve özel anlar",
+      "sizes": "50 ml ve 100 ml",
+      "inspiration": "Canlı narenciye ve odunsu notaları bir araya getiren modern koku profilinden esintiler taşır."
+    },
+    "pacifico-fresco": {
+      "name": "PACÍFICO FRESCO",
+      "tagline": "Ferah, enerjik ve özgür hissettiren modern bir koku.",
+      "description": "Canlı narenciye dokunuşları; serin nane, yeşil aromatik notalar ve hafif meyvemsi nüanslarla birleşerek Pacífico Fresco'ya parlak, temiz ve canlandırıcı bir karakter kazandırır.",
+      "character": "Narenciyeli • Yeşil • Aromatik • Ferah",
+      "usage": "Günlük • İlkbahar ve yaz",
+      "sizes": "50 ml ve 100 ml",
+      "inspiration": "Akdeniz esintisini tropikal bir ferahlıkla buluşturan yaz kokularından ilham alınmıştır."
+    },
+    "erba-fruta": {
+      "name": "ERBA FRUTA",
+      "tagline": "Tatlı, yoğun ve dikkat çekici.",
+      "description": "Egzotik meyvelerin canlı açılışı; yumuşak misk, vanilyamsı sıcaklık ve kremsi dokunuşlarla birleşerek Erba Fruta'ya güçlü ve baş döndürücü bir karakter kazandırır. Kadın ve erkek kullanımına uygun iddialı bir unisex koku.",
+      "character": "Meyvemsi • Tatlı • Egzotik • Miskli",
+      "usage": "Günlük ve özel anlar",
+      "sizes": "50 ml ve 100 ml",
+      "inspiration": "Yoğun ve meyvemsi unisex koku ailesinden ilham alınmıştır."
+    }
+  }
+}
